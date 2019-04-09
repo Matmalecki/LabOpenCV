@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\mmalecki\source\repos\05_lab\project\main.cpp(112): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\mmalecki\source\repos\05_lab\project\main.cpp(214): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  Project.vcxproj -> C:\Users\mmalecki\source\repos\05_lab\x64\Debug\Project.exe
